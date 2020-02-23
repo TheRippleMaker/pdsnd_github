@@ -5,7 +5,7 @@ Project created on February 22, 2020.
 Analyzing Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+This project gives users the option of choosing from three cities, a given month, and day of the week to receive bikeshare information in these given categories. Various statistics are then displayed, such as most frequent times of travel and trip duration. Raw data is also displayed for the user. 
 
 ### Files used
 Include the files used
