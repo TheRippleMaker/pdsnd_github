@@ -14,4 +14,4 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-Shoutout to my friend Joe for inspiring me to make this project.
+Shoutout to my friend Joe and Bill for inspiring me to make this project.
